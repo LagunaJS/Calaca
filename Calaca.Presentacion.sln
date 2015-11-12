@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calaca.Presentacion", "Calaca.Presentacion\Calaca.Presentacion.csproj", "{21E5197D-D222-4056-BD88-20A737F77060}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calaca.Nucleo", "Calaca.Nucleo\Calaca.Nucleo.csproj", "{857BB68A-2B90-4FDB-9EFE-D17DE441FBF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21E5197D-D222-4056-BD88-20A737F77060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21E5197D-D222-4056-BD88-20A737F77060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21E5197D-D222-4056-BD88-20A737F77060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21E5197D-D222-4056-BD88-20A737F77060}.Release|Any CPU.Build.0 = Release|Any CPU
+		{857BB68A-2B90-4FDB-9EFE-D17DE441FBF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{857BB68A-2B90-4FDB-9EFE-D17DE441FBF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{857BB68A-2B90-4FDB-9EFE-D17DE441FBF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{857BB68A-2B90-4FDB-9EFE-D17DE441FBF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

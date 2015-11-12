@@ -1,0 +1,37 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model Calaca.Nucleo.Entidades.Usuario
+@using Calaca.Nucleo.Entidades
+
+<header>
+        
+</header>
+
+
+    <section class="success" id="about">
+           
+
+          <table class="table">
+                <thead>
+                  <tr>
+                    <th>Nombre</th>
+                    <th>Correo</th>
+                 
+                  </tr>
+                </thead>
+                <tbody>
+                       @foreach(Usuario u in ViewBag.Usuarios)
+                         {
+                           <tr class="success">
+                            <td>@u.Nombre</td>
+                            <td>@u.Correo</td>
+                            </tr>
+                         }
+             
+                </tbody>
+         </table>
+    </section>
+

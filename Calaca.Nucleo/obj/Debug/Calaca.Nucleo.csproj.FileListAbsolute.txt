@@ -1,0 +1,16 @@
+C:\Users\gaby\documents\visual studio 2012\Projects\Calaca.Presentacion\Calaca.Nucleo\bin\Debug\Mappings\Usuario.hbm.xml
+C:\Users\gaby\documents\visual studio 2012\Projects\Calaca.Presentacion\Calaca.Nucleo\bin\Debug\Calaca.Nucleo.dll
+C:\Users\gaby\documents\visual studio 2012\Projects\Calaca.Presentacion\Calaca.Nucleo\bin\Debug\Calaca.Nucleo.pdb
+C:\Users\gaby\documents\visual studio 2012\Projects\Calaca.Presentacion\Calaca.Nucleo\bin\Debug\Iesi.Collections.dll
+C:\Users\gaby\documents\visual studio 2012\Projects\Calaca.Presentacion\Calaca.Nucleo\bin\Debug\NHibernate.dll
+C:\Users\gaby\documents\visual studio 2012\Projects\Calaca.Presentacion\Calaca.Nucleo\obj\Debug\Calaca.Nucleo.dll
+C:\Users\gaby\documents\visual studio 2012\Projects\Calaca.Presentacion\Calaca.Nucleo\obj\Debug\Calaca.Nucleo.pdb
+C:\Users\gaby\documents\visual studio 2012\Projects\Calaca.Presentacion\Calaca.Nucleo\bin\Debug\log4net.dll
+C:\Users\gaby\documents\visual studio 2012\Projects\Calaca.Presentacion\Calaca.Nucleo\obj\Debug\Calaca.Nucleo.csprojResolveAssemblyReference.cache
+C:\Users\LagunaJS\Documents\Visual Studio 2015\Projects\Calaca.Presentacion\Calaca.Nucleo\bin\Debug\Mappings\Usuario.hbm.xml
+C:\Users\LagunaJS\Documents\Visual Studio 2015\Projects\Calaca.Presentacion\Calaca.Nucleo\bin\Debug\Calaca.Nucleo.dll
+C:\Users\LagunaJS\Documents\Visual Studio 2015\Projects\Calaca.Presentacion\Calaca.Nucleo\bin\Debug\Calaca.Nucleo.pdb
+C:\Users\LagunaJS\Documents\Visual Studio 2015\Projects\Calaca.Presentacion\Calaca.Nucleo\obj\Debug\Calaca.Nucleo.csprojResolveAssemblyReference.cache
+C:\Users\LagunaJS\Documents\Visual Studio 2015\Projects\Calaca.Presentacion\Calaca.Nucleo\obj\Debug\Calaca.Nucleo.dll
+C:\Users\LagunaJS\Documents\Visual Studio 2015\Projects\Calaca.Presentacion\Calaca.Nucleo\obj\Debug\Calaca.Nucleo.pdb
+C:\Users\LagunaJS\Documents\Visual Studio 2015\Projects\Calaca.Presentacion\Calaca.Nucleo\bin\Debug\MySql.Data.dll

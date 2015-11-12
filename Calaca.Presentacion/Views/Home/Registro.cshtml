@@ -1,0 +1,39 @@
+﻿@{
+    ViewBag.Title = "Registro";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Registro</h2>
+
+@model Calaca.Nucleo.Entidades.Usuario
+
+<section id="contact">
+    <div class="container">
+
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                @using(Html.BeginForm("Guardar", "Home", FormMethod.Post))
+                {
+                    <div class="row control-group">
+                        <div class="form-group col-xs-12 floating-label-form-group controls">
+                            @Html.TextBoxFor(model => Model.Nombre,
+                            new { @class = "form-control", id = "nombre", placeholder = "Escribe tu nombre" })
+
+                            @Html.TextBoxFor(model => Model.Correo,
+                            new { @class = "form-control", id = "correo", placeholder = "Escribe tu correo" })
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="form-group col-xs-12">
+                            <button type ="submit" class="btn btn-success btn-lg">Guardar</button>
+                        </div>
+                    </div>
+                }
+            </div>
+            @if (ViewBag.Message != null)
+            {
+                <label>@ViewBag.Message</label>
+            }
+        </div>
+    </div>
+</section>
